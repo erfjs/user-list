@@ -1,5 +1,5 @@
 # Next.js User List
-A simple user list app powered by Next-js >>> SSG (static site generation)
+A simple user list app powered by Next-js >> SSG (static site generation)
 
 ##### [Live Demo](https://user-list.erfjs.com) on Netlify
 
