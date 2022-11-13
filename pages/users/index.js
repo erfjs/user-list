@@ -11,6 +11,7 @@ export const getStaticProps = async () => {
 };
 
 const Users = ({ users }) => {
+  console.log(users);
 
   return (
     <div>
